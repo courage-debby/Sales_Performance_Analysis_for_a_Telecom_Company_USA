@@ -2,9 +2,8 @@
  A Data Analysis Project that Analysed  the sales performance of a Telecommunication  company Based in the United State. The company’s sales transaction data generated over the past years was used for this analysis.
 ## Table of Content
 [Project Overview](#project-overview)<br> <br>
-[Data Sources](#data-sources)
-[]()
-[]()
+[Data Sources](#data-sources)<br> <br>
+[Data Analysis Tools Used](#data-analysis-tools-used)<br> <br>
 []()
 []()
 []()
