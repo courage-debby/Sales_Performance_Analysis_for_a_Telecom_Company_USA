@@ -11,6 +11,12 @@ Various aspects of the company’s sales transaction data generated over the pas
 
 We seek to identify __Top performing customers, products, channels of sales , region , trends, and the overall performance of the company__ , to enable the company to make data-driven decisions/recommendations and to gain a deeper understanding of the company’s overall performance. 
 
+## Data Sources: 
+Sales Transaction Data : The primary dataset used for this data analysis project was sales transaction data, containing detailed information about each sales made by the company , and was extracted from the company’s database using __SQL codes__. 
+
+Several SQL complex queries were written to the company’s database in order to extract the required data for this  data analysis project. 
+
+Each SQL complex query was used to extract a particular aspect of the company’s sales data. 
 
 
 ## Results and Findings: 
