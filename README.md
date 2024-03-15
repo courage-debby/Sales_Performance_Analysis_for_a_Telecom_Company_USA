@@ -32,7 +32,7 @@ We seek to identify __Top performing customers, products, channels of sales , re
 
 ## Data Sources: 
 
-nsaction Data : The primary dataset used for this data analysis project was sales transaction data, containing detailed information about each sales made by the company , and was extracted from the company’s database using __SQL codes__. 
+transaction Data : The primary dataset used for this data analysis project was sales transaction data, containing detailed information about each sales made by the company , and was extracted from the company’s database using __SQL codes__. 
 
 Several SQL complex queries were written to the company’s database in order to extract the required data for this  data analysis project. 
 
