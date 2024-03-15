@@ -11,8 +11,28 @@ Various aspects of the company’s sales transaction data generated over the pas
 
 We seek to identify __Top performing customers, products, channels of sales , region , trends, and the overall performance of the company__ , to enable the company to make data-driven decisions/recommendations and to gain a deeper understanding of the company’s overall performance. 
 
+1.sales performance by customers <br> <br>
+
+![customer_behaviour _ss](https://github.com/courage-debby/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163519804/daf2903b-2e5f-44a9-bb44-92ede7ee5ea1)
+
+
+2.sales performance by channels <br> <br>
+
+![sales _by_channels_ss](https://github.com/courage-debby/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163519804/666ad9d9-0b99-4200-bc4d-f4f57abe99b2)
+
+3.sales performance by region <br> <br>
+
+
+![sales_by_region_ss](https://github.com/courage-debby/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163519804/254e54da-0e4d-4499-ad9f-64067bec2600)
+
+4.trend over the years
+
+
+![sales _trend_over _the_years](https://github.com/courage-debby/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/163519804/a3ee5b6e-5a18-4463-8228-a284288c2642)
+
 ## Data Sources: 
-Sales Transaction Data : The primary dataset used for this data analysis project was sales transaction data, containing detailed information about each sales made by the company , and was extracted from the company’s database using __SQL codes__. 
+
+nsaction Data : The primary dataset used for this data analysis project was sales transaction data, containing detailed information about each sales made by the company , and was extracted from the company’s database using __SQL codes__. 
 
 Several SQL complex queries were written to the company’s database in order to extract the required data for this  data analysis project. 
 
