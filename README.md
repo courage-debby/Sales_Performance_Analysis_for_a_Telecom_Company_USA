@@ -1,10 +1,22 @@
 # Sales_Performance_Analysis_for_a_Telecom_Company_USA
  A Data Analysis Project that Analysed  the sales performance of a Telecommunication  company Based in the United State. The company’s sales transaction data generated over the past years was used for this analysis.
+## Table of Content
+[Project Overview](#project-overview)<br> <br>
+[Data Sources](#data-sources)
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+
 
 
 ## Project Overview: 
 This Data Analysis Project aims to provide  insights into the sales performance of a Telecommunication  company Based in the United State. 
-## About the Company: 
+About the Company: 
 The Telecommunication Company operates a B2B business model and  sells a wide variety of cell phones and devices, including __smartphones, tablets, smartwatches__.  They offer devices from all of the major manufacturers, such as Apple, Samsung, Google, and Motorola.
 
 Various aspects of the company’s sales transaction data generated over the past years was  analysed  to gain insights into their __Customer Behaviour, Product Popularity, Top Performing  Channel of Marketing, Regional Performance  and Revenue Trends of the company__ since it began. 
@@ -38,6 +50,7 @@ Several SQL complex queries were written to the company’s database in order to
 
 Each SQL complex query was used to extract a particular aspect of the company’s sales data. 
 
+The results were downloaded and saved as  the following csv files below: <br> <br>
 
 ## Results and Findings: 
 
