@@ -4,14 +4,12 @@
 [Project Overview](#project-overview)<br> <br>
 [Data Sources](#data-sources)<br> <br>
 [Data Analysis Tools Used](#data-analysis-tools-used)<br> <br>
-[Data Collection](#data collection)<br> <br>
-[Data Cleaning and Formatting](#data cleaning and formatting)<br> <br>
-[Loading Data into Power BI](#loading data into power bi)<br> <br>
-[]()
-[]()
-[]()
-
-
+[Data Collection](#data-collection)<br> <br>
+[Data Cleaning and Formatting](#data-cleaning-and-formatting)<br> <br>
+[Loading Data into Power BI](#loading-data-into-power-bi)<br> <br>
+[Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)<br> <br>
+[Data Analysis](#data-analysis)<br> <br>
+[Results and Findings](#results-and-findings)
 
 ## Project Overview: 
 This Data Analysis Project aims to provide  insights into the sales performance of a Telecommunication  company Based in the United State. 
