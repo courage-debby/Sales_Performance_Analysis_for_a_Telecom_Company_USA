@@ -8,7 +8,7 @@
 [Data Cleaning and Formatting](#data-cleaning-and-formatting)<br> <br>
 [Loading Data into Power BI](#loading-data-into-power-bi)<br> <br>
 [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)<br> <br>
-[Data Analysis](#data-analysis)<br> <br>
+[]()<br> <br>
 [Results and Findings](#results-and-findings)
 
 ## Project Overview: 
@@ -44,11 +44,11 @@ We seek to identify __Top performing customers, products, channels of sales , re
 
 Sales transaction Data : The primary dataset used for this data analysis project was sales transaction data, containing detailed information about each sales made by the company , and was extracted from the company’s database using __SQL codes__. 
 
-Several SQL complex queries were written to the company’s database in order to extract the required data for this  data analysis project. 
+Several SQL complex queries were written to the company’s database in order to extract the required data for this data analysis project. 
 
 Each SQL complex query was used to extract a particular aspect of the company’s sales data. 
 
-The results were downloaded and saved as  the following csv files below: <br> <br>
+The results were downloaded and saved as the following csv files below: <br> <br>
 
 “customers_behaviour.csv” <br> <br>
 “revenue_generated_by_channels_all_time.csv” <br> <br>
